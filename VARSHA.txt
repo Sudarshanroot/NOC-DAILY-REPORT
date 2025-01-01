@@ -3,7 +3,6 @@ General shift update of 1/1/25
 Corteva dhamandevi - TT raised to GTPL. Link is restored. Rfo is fiber cut at field near distribution end.
 
 Gingee -   ETR is tomorrow first half.
-
 Kongarapalyam - WAN link is down. ETR is tomorrow first half.
 Fatikgachi- WAN link was down. Informed to ISP. Now the link is restored.
 Raniganj - FLT is done. Link os restored.
